@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Ali Mahdi</h1>
-<h3 align="center">Full-Stack Web Developer | React • Laravel • PHP • JavaScript</h3>
+<h1 align="center">👋 Hi, I'm <strong>Ali Mahdi</strong></h1>
+<h3 align="center">Full-Stack Web Developer | Laravel • React • Filament • PHP • JavaScript</h3>
 
 <p align="center">
   <a href="https://github.com/EngAliMAhdi">
@@ -9,34 +9,69 @@
 
 ---
 
-### 🚀 About Me  
-- 💻 Full-Stack Developer specialized in **React, Laravel, PHP, JS, Tailwind**  
-- 🔭 Currently working on **advanced clinic management systems & dashboards**  
-- 🎯 Passionate about building clean UI, scalable backend, and real-world systems  
-- 📚 Always improving in **TypeScript, APIs, system architecture**  
-- 📫 Contact me on LinkedIn  
-- 🎥 Uploading tech content on **YouTube**  
+## 🚀 About Me  
+
+- 💻 Full-Stack Developer specialized in **Laravel, React, Inertia, PHP, JS, TailwindCSS**  
+- 🏗️ Built **production-ready systems**: educational platforms, e-commerce, clinic dashboards, and restaurant management systems  
+- 🔭 Currently building **advanced dashboards + REST APIs** for real clients  
+- 🧩 Strong in **system architecture, clean code, API design, and Filament dashboards**  
+- 🎯 My goal: build scalable software & share knowledge through tutorials  
+- 📫 Connect with me on **LinkedIn**  
+- 🎥 Creating tech content soon on **YouTube**  
 
 ---
 
-### 🔧 Tech Stack
+## 🔥 Featured Projects (Real-World)  
 
-#### **Frontend**
-React • JavaScript • TypeScript • TailwindCSS • HTML • CSS • Vite
+### 🔹 **Nabatedu – Educational Platform**
+A full education platform:  
+- Laravel backend + Filament dashboard  
+- Modern Tailwind UI  
+- REST API for mobile apps  
+- Roles, permissions, media management  
 
-#### **Backend**
-Laravel • PHP • MySQL • REST APIs • Authentication
+---
 
-#### **Tools**
-Git • GitHub • Composer • VSCode • Postman • Figma
+### 🔹 **Newborn – Mobile App Control Panel**
+- Admin dashboard built with Filament  
+- REST API for mobile integration  
+- Postman documentation  
+
+---
+
+### 🔹 **Bhome – E-commerce System**
+🔗 https://bhome-official.com  
+- Product management, orders, and secure payments  
+- Scalable Laravel architecture  
+- Modern admin panel  
+
+---
+
+### 🔹 **Restaurant Management System (Web + Mobile)**
+- POS + Orders + Kitchen Screen  
+- Online ordering + Delivery tracking  
+- Reports & Employee management  
+
+---
+
+## 🔧 Tech Stack
+
+### **Frontend**
+React • Inertia.js • JavaScript • TypeScript • TailwindCSS • HTML • CSS • Vite  
+
+### **Backend**
+Laravel • PHP • MySQL • FilamentPHP • REST APIs • Auth (Sanctum)
+
+### **Tools**
+Git • GitHub • Composer • VSCode • Postman • Figma • Docker
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,php,js,ts,html,css,tailwind,vite,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,php,js,ts,html,css,tailwind,vite,git,github,vscode,figma,postman,docker" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=EngAliMAhdi&show_icons=true&theme=tokyonight" />
@@ -45,14 +80,14 @@ Git • GitHub • Composer • VSCode • Postman • Figma
 
 ---
 
-### 🔥 Streak Stats  
+## 🔥 Streak Stats  
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=EngAliMAhdi&theme=tokyonight" />
 </p>
 
 ---
 
-### 📺 Featured Socials
+## 📺 Featured Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-mahdi-2440222b1">
@@ -68,19 +103,19 @@ Git • GitHub • Composer • VSCode • Postman • Figma
 
 ---
 
-### ✨ Highlights  
-- 🔹 Building full systems, not just UI  
-- 🔹 Focused on clean code and real-world applications  
-- 🔹 Passionate about backend logic + modern frontend  
-- 🔹 Aiming to share knowledge on YouTube soon  
+## ✨ Highlights  
+- 🔹 Build full systems, not just UI  
+- 🔹 Strong in backend logic + modern frontend design  
+- 🔹 Experience building **live production systems**  
+- 🔹 Focused on clean code, scalability, and maintainability  
 
 ---
 
-### 💬 A Quote I Believe In  
+## 💬 Quote I Believe In  
 > *“Code is like humor. When you have to explain it, it’s bad.”*
 
 ---
 
-### ⭐ Support My Work  
-If you like what I do, don’t forget to **star ⭐ repositories**, it means a lot!
+## ⭐ Support My Work  
+If you like what I do, **star ⭐ my repositories** — it means a lot!
 
